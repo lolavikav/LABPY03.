@@ -153,9 +153,9 @@ laba bulan ke- 8 sebesar: 3000000.0
 Total laba adalah: 19000000.0
 ```
 
-## Berikut adalah hasin screenshot vsc
--
+## Berikut adalah hasin screenshot viaual studio code
 
+![Screenshot 2024-10-31 165715](https://github.com/user-attachments/assets/6218e282-23be-49b4-b7e1-e4e3a906437d)
 
 ## LATIHAN 3.latihan3.py 
 
@@ -239,7 +239,10 @@ Terima kasih telah menggunakan ATM!
 
 - Pada contoh ini: Pengguna memilih opsi "Tarik Uang" dan memasukkan jumlah penarikan Rp 500.000. Program berhasil melakukan penarikan dan mengurangi saldo. Pengguna kemudian memilih opsi "Keluar" untuk mengakhiri program.
 
-## Berikut adalah hasin screenshot vsc
+## Berikut adalah hasin screenshot visual studio code
+
+![Screenshot 2024-10-31 202659](https://github.com/user-attachments/assets/adf8d8c7-ca8c-409e-bc79-ae8c37324d2c)
+
 
 
 
